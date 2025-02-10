@@ -24,4 +24,4 @@
 
 ## Game Illustration
 
-![Roshambo Game](path/to/your/image.png)
+![Roshambo Game]([path/to/your/image.png](https://github.com/Ananyamishra08/Roshambo/blob/main/images/website.png))
